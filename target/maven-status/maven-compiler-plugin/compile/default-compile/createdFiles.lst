@@ -1,0 +1,6 @@
+com\bankkata\domain\Account.class
+com\bankkata\domain\TransactionRepository.class
+com\bankkata\domain\Transaction.class
+com\bankkata\Main.class
+com\bankkata\service\StatementPrinter.class
+com\bankkata\infrastructure\TransactionRepositoryImpl.class
